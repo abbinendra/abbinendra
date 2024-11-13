@@ -2,7 +2,7 @@
 - Hi, I’m Abhinendra Pratap Singh
 - I’m interested in learning the most I can.
 - I’m currently learning web development.
-- I’m looking to collaborate on projects from html,css,js and React.js
+- I’m looking to collaborate on projects from html, css, js and React.js
 - How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abbinendra/)
   ### Achievements
   <a href="https://badgr.com/public/assertions/fNddH5WuRU6JxIBNYsSJOA?identity__email=abhinendra0211@gmail.com">
