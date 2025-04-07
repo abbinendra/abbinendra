@@ -1,7 +1,6 @@
 <div align="center">
 
-Hi, I’m **Abhinendra Pratap Singh**  
-**Learning in Public**
+<img src="https://github.com/abbinendra/abbinendra/blob/main/HYgifs.gif?raw=true" width="100%" />
 
 ---
 
